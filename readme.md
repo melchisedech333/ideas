@@ -1,5 +1,7 @@
 # ideas
 
+Language: <a href="readme-pt.md" >PT-BR</a>
+
 My [GitHub sponsors](https://github.com/sponsors/melchisedech333) can suggest and vote for their favorite project ideas to help prioritize them.
 
 [See all ideas](https://github.com/melchisedech333/ideas/issues).
